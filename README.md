@@ -8,8 +8,8 @@ En el notebook Modelling, se ha realizado un screening de distintos algoritmos d
 
 Como resultado, se realizaron seis submits a la competición en los que se obtuvieron los siguientes resultados:
 
-![image.png](attachment:Resultados.png)
+![Resultados](Resultados.png)
 
-Siendo el mejor de ellos el obtenido utilizando el modelo de Random Forest con ajuste aleatorio de los hiperparámetros
+Siendo el mejor de ellos el obtenido utilizando el modelo de Random Forest con ajuste aleatorio de los hiperparámetros (0.8135), que comparado con el mejor valor a nivel global (0.8290), se comporta bastante bien, teniendo en cuenta que es un modelo relativamente sencillo y que no se ha llevado a cabo un trabajo demasiado exhaustivo en el ajuste de los modelados y que no se ha creado ninguna nueva variable en el dataset, por lo que el modelo aún tendría margen de mejora.
 
 
